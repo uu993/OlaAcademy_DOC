@@ -37,7 +37,7 @@
         "status": null,
         "examtype": null,
         "yzm": null,
-        "isActive": 0,
+        "isActive": 1,   // 1 学生 2 老师
         "realName": null,
         "infoPerfectLev": null
     },

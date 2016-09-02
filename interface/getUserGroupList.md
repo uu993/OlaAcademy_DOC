@@ -19,12 +19,15 @@
     "message": "成功",
     "result": [
         {
-            "createUser": 0,
-            "id": 1,
-            "avatar": "",
-            "name": "欧拉学习群",
-            "time": "2016-08-02 17:48",
-            "isMember": 1  // 1 已经是群成员
+            "avatar": "Forever群",
+            "createUser": 381,
+            "id": 2,
+            "name": "Forever群",
+            "profile": "",
+            "type": 1,
+            "time": "2016-08-31 00:00",
+            "isMember": 1,
+            "number": 1
         }
     ],
     "apicode": 10000

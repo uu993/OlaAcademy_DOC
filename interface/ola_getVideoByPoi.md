@@ -46,7 +46,10 @@
         "timeSpan": "0:30:02",
         "tname": "",
         "weight": "",
-        "isfree":1  //可观看
+        "isfree":1 , //可观看
+        "attachmentId": 1,
+        "size": "710k",
+        "url": "http://cospdf.ufile.ucloud.cn/lj_xuerui/xr_jc_1.pdf",
       }
     ]
   },

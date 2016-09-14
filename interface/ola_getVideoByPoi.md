@@ -32,7 +32,10 @@
         "timeSpan": "0:54:44",
         "tname": "",
         "weight": "",
-        "isfree":0   // 需开通会员
+        "isfree":0,   // 需开通会员
+        "attachmentId": 1,
+        "size": "710k",
+        "url": "http://cospdf.ufile.ucloud.cn/lj_xuerui/xr_jc_1.pdf",
       },
       {
         "address": "http://olamath.ufile.ucloud.com.cn/2016chuanjiang/08_jihe.mp4",

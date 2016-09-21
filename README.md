@@ -58,6 +58,8 @@
 * | :one:帖子点赞 | /circle/[praiseCirclePost](./interface/praiseCirclePost.md)
 * | :one:添加评论 | /comment/[addComment](./interface/addComment.md)
 * | :one:评论列表 | /comment/[getCommentList](./interface/getCommentList.md)
+* 好友关注| | | | |
+* | :one:关注／取消关注 | /attention/[attendUser](./interface/attendUser.md) 
 * 我的| | | | |
 * | :one:知识型谱 | /cour/[getStatisticsList](./interface/getStatisticsList.md) 
 * | :one:错题集 | /cour/[getWrongSubSet](./interface/getWrongSubSet.md) 

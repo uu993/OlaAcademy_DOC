@@ -62,6 +62,7 @@
 * | :one:关注／取消关注 | /attention/[attendUser](./interface/attendUser.md)
 * 每日签到 分享| | | | |
 * | :one:获取今日签到状态 | /dailyact/[getCheckinStatus](./interface/getCheckinStatus.md) 
+* | :one:签到 | /dailyact/[checkin](./interface/checkin.md) 
 * 我的| | | | |
 * | :one:知识型谱 | /cour/[getStatisticsList](./interface/getStatisticsList.md) 
 * | :one:错题集 | /cour/[getWrongSubSet](./interface/getWrongSubSet.md) 

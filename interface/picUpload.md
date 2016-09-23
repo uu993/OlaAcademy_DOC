@@ -2,7 +2,7 @@
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /common/picUpload
+ 访问地址 | http://upload.olaxueyuan.com/common/picUpload
 
 ###请求参数
 

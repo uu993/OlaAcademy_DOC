@@ -15,5 +15,10 @@
 ###返回结果示例
 {
     "message": "成功",
+    "result": {
+        "status": 1,
+        "lastSignIn": "2016-09-26",
+        "signInDays": "1"
+    },
     "apicode": 10000
 }

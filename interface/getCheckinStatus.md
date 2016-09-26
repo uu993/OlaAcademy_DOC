@@ -14,6 +14,10 @@
 ###返回结果示例
 {
     "message": "成功",
-    "result": 1,  // 1 已签到 0 未签到
+    "result": {
+        "status": 1,  // 1 已签到 0 未签到
+        "lastSignIn": "2016-09-26", // 最近签到
+        "signInDays": "1" // 连续签到
+    },
     "apicode": 10000
 }

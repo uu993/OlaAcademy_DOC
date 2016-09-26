@@ -11,7 +11,7 @@
 * | :one:根据id修改用户信息 | /user/[update](./interface/update.md)
 * | :one:根据id查询用户的信息 | /user/[queryUser](./interface/queryUser.md)
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
-* | :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
+* (废弃)| :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
 首页 | | | | |
 * | :one:首页列表 | /home/[getHomeList](./interface/getHomeList.md)

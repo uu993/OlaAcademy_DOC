@@ -41,7 +41,7 @@
 * | :one:真题／模考列表 | /exam/[getExamList](./interface/ola_getExamList.md) 
 * | :one:真题／模考对应的试题 | /exam/[getExamSubList](./interface/ola_getExamSubList.md) 
 欧拉币兑换 | | | | |
-* | :one:解锁题目 | /exchange/[exchangeSubject](./interface/exchangeSubject.md) 
+* | :one:解锁题目 | /exchange/[unlockSubject](./interface/unlockSubject.md) 
 视频 | | | | |
 * | :one:首页banner | /cour/[getBannerList](./interface/getBannerList.md) 
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 

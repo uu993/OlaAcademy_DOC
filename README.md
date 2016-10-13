@@ -11,7 +11,6 @@
 * | :one:根据id修改用户信息 | /user/[update](./interface/update.md)
 * | :one:根据id查询用户的信息 | /user/[queryUser](./interface/queryUser.md)
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
-* (废弃)| :one:用户签到 | /user/[userSignIn](./interface/userSignIn.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
 首页 | | | | |
 * | :one:首页列表 | /home/[getHomeList](./interface/getHomeList.md)
@@ -41,6 +40,8 @@
 模考 | | | | |
 * | :one:真题／模考列表 | /exam/[getExamList](./interface/ola_getExamList.md) 
 * | :one:真题／模考对应的试题 | /exam/[getExamSubList](./interface/ola_getExamSubList.md) 
+欧拉币兑换 | | | | |
+* | :one:解锁题目 | /exchange/[exchangeSubject](./interface/exchangeSubject.md) 
 视频 | | | | |
 * | :one:首页banner | /cour/[getBannerList](./interface/getBannerList.md) 
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 

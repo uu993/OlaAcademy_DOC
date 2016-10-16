@@ -35,7 +35,8 @@
 * | :one:学生群列表 | /homework/[getUserGroupList](./interface/getUserGroupList.md) 
 * | :one:加入／退出群 | /homework/[attendGroup](./interface/attendGroup.md)
 * | :one:发布作业 | /homework/[deployHomework](./interface/deployHomework.md) 
-* | :one:作业列表 | /homework/[getHomeworkList](./interface/getHomeworkList.md) 
+* | :one:作业列表 | /homework/[getHomeworkList](./interface/getHomeworkList.md)
+* | :one:作业完成情况 | /homework/[getHomeworkStatistics](./interface/getHomeworkStatistics.md) 
 * | :one:题目列表 | /homework/[getSubjectList](./interface/getSubjectList.md) 
 模考 | | | | |
 * | :one:真题／模考列表 | /exam/[getExamList](./interface/ola_getExamList.md) 

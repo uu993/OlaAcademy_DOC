@@ -1,16 +1,18 @@
 
-# 用户登录
+# （老师版）学生作业完成情况
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /user/login
+ 访问地址 | /homework/getHomeworkStatistics
 
 ###请求参数
 
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
- phone | 是 | 字符串 | 手机号
- passwd | 是 | 字符串 | 密码
+ groupId | 是 | 字符串 | groupId
+ homeworkId | 是 | 字符串 | homeworkId
+ pageIndex | 是 | 字符串 | 起始页 1
+ pageSize | 是 | 字符串 | 
 
 ###返回结果示例
 

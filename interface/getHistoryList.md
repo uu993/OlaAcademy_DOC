@@ -1,8 +1,8 @@
-# 分享
+# 欧拉币s获取及消耗明晰
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /dailyact/share
+ 访问地址 | /coin/getHistoryList
 
 ###请求参数
 

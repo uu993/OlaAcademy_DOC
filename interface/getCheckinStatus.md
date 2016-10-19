@@ -19,6 +19,7 @@
         "lastSignIn": "2016-10-18",
         "signInDays": "6",
         "coin": "263",
+        "todayCoin": 0,
         "profileTask": 0,
         "vipTask": 1,
         "courseTask": 1

@@ -23,7 +23,8 @@
       "courseId": 54,
       "coursePic": "http://math.ufile.ucloud.com.cn/basicmath1.jpg",
       "totalTime": "2:16:05",
-      "subAllNum": 0
+      "subAllNum": 0,
+      "type": 1
     }
   ],
   "apicode": 10000

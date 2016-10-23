@@ -14,6 +14,7 @@
  videoId | 是 | 字符串 | 视频Id
  courseId | 是 | 字符串 | 课程id
  state | 是 | 字符串 | 1 收藏 0 取消
+ type | 是 | 字符串 | 1 课程course 2精品课goods
 
 ###返回结果示例
 

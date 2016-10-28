@@ -14,6 +14,7 @@
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
 首页 | | | | |
 * | :one:首页列表 | /home/[getHomeList](./interface/getHomeList.md)
+* | :one:资料列表 | /home/[getMaterialList](./interface/getMaterialList.md)
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |
@@ -34,6 +35,7 @@
 * | :one:老师创建的群列表 | /homework/[getTeacherGroupList](./interface/getTeacherGroupList.md) 
 * | :one:学生群列表 | /homework/[getUserGroupList](./interface/getUserGroupList.md) 
 * | :one:加入／退出群 | /homework/[attendGroup](./interface/attendGroup.md)
+* | :one:群成员列表 | /homework/[getGroupMember](./interface/getGroupMember.md) 
 * | :one:发布作业 | /homework/[deployHomework](./interface/deployHomework.md) 
 * | :one:作业列表 | /homework/[getHomeworkList](./interface/getHomeworkList.md)
 * | :one:作业完成情况 | /homework/[getHomeworkStatistics](./interface/getHomeworkStatistics.md) 

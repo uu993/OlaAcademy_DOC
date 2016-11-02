@@ -11,6 +11,7 @@
  materailId | 否 | 字符串 | 当前页最后一条的id
  pageSize | 否 | 字符串 | 每页条数
  type | 否 | 字符串 | 1 数学 2 英语 3 逻辑 4 写作
+ userId | 否 | 字符串 | 
  
 ###返回结果示例
 
@@ -19,6 +20,7 @@
     "message": "成功",
     "result": [
         {
+            "count": 10,
             "id": 10,
             "pic": "http://cospic.ufile.ucloud.com.cn/icon.jpg",
             "price": "20",
@@ -27,9 +29,11 @@
             "title": "平面几何精选20题",
             "type": 1,
             "url": "http://datapdf.ufile.ucloud.com.cn/math/s_10.pdf",
-            "time": "2016-09-22 10:01:20"
+            "time": "2016-09-22 10:01:20",
+            "status": 0  // 1 已兑换
         },
         {
+            "count": 10,
             "id": 9,
             "pic": "http://cospic.ufile.ucloud.com.cn/icon.jpg",
             "price": "20",
@@ -38,9 +42,11 @@
             "title": "蒙猜大法－数学条件充分性判断终极解题技巧",
             "type": 1,
             "url": "http://datapdf.ufile.ucloud.com.cn/math/s_9.pdf",
-            "time": "2016-09-21 10:01:20"
+            "time": "2016-09-21 10:01:20",
+            "status": 0
         },
         {
+            "count": 10,
             "id": 8,
             "pic": "http://cospic.ufile.ucloud.com.cn/icon.jpg",
             "price": "0",
@@ -49,7 +55,8 @@
             "title": "管理类联考数学必备公式",
             "type": 1,
             "url": "http://datapdf.ufile.ucloud.com.cn/math/s_8.pdf",
-            "time": "2016-09-20 10:01:20"
+            "time": "2016-09-20 10:01:20",
+            "status": 1
         }
     ],
     "apicode": 10000

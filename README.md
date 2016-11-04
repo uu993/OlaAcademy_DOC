@@ -15,6 +15,7 @@
 首页 | | | | |
 * | :one:首页列表 | /home/[getHomeList](./interface/getHomeList.md)
 * | :one:资料列表 | /material/[getMaterialList](./interface/getMaterialList.md)
+* | :one:更新浏览量 | /material/[updateMaterialCount](./interface/updateMaterialCount.md)
 * | :one:解锁资料 | /exchange/[unlockMaterial](./interface/unlockMaterial.md) 
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)

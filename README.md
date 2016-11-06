@@ -17,6 +17,7 @@
 * | :one:资料列表 | /material/[getMaterialList](./interface/getMaterialList.md)
 * | :one:更新浏览量 | /material/[updateMaterialCount](./interface/updateMaterialCount.md)
 * | :one:解锁资料 | /exchange/[unlockMaterial](./interface/unlockMaterial.md) 
+* | :one:机构及学校信息 | /organization/[getOrganizationInfo](./interface/getOrganizationInfo.md)
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |
@@ -52,7 +53,7 @@
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
 * | :one:获取课程视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md)
 * | :one:收藏／取消收藏视频 | /collection/[collectionVideo](./interface/collectionVideo.md)
-* | :one:机构列表 | /cour/[getAllOrganization](./interface/ola_getAllOrganization.md)
+* | :one:机构列表 | /organization/[getAllOrganization](./interface/ola_getAllOrganization.md)
 * | :one:获取整套视频或题库 | /goods/[getGoodsList](./interface/getGoodsList.md)
 * | :one:获取整套视频下的视频列表 | /goods/[getVideoList](./interface/getVideoList.md)
 * | :one:获取整套视频购买状态 | /goods/[getOrderStatus](./interface/getOrderStatus.md)

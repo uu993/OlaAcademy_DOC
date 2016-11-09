@@ -18,6 +18,7 @@
 * | :one:更新浏览量 | /material/[updateMaterialCount](./interface/updateMaterialCount.md)
 * | :one:解锁资料 | /exchange/[unlockMaterial](./interface/unlockMaterial.md) 
 * | :one:机构及学校信息 | /organization/[getOrganizationInfo](./interface/getOrganizationInfo.md)
+* | :one:报名 | /organization/[checkin](./interface/checkin.md)
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |

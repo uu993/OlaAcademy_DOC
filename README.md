@@ -78,6 +78,7 @@
 * | :one:知识型谱(旧版) | /cour/[getStatisticsList](./interface/getStatisticsList.md)
 * | :one:错题集列表 | /cour/[getWrongList](./interface/getWrongList.md)
 * | :one:错题集 | /cour/[getWrongSubSet](./interface/getWrongSubSet.md) 
+* | :one:更新错题集 | /cour/[updateWrongSet](./interface/updateWrongSet.md) 
 * | :one:视频收藏列表 | /collection/[getCollectionByUserId](./interface/getCollectionByUserId.md) 
 * | :one:购买视频列表 | /goods/[getBuyGoodsList](./interface/getBuyGoodsList.md) 
 * 支付 | | | | |

@@ -13,6 +13,8 @@
  title | 否 | 字符串 | 
  content | 否 | 字符串 | 
  imageGids | 否 | 字符串 | 
+ assignUser| 否 | 指定回答者Id
+ isPublic | 否 | 字符串 | 是否公开
  location | 否 | 字符串 | 
  type | 否 | 字符串 | 
  

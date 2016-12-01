@@ -12,6 +12,10 @@
  postId | 是 | 字符串 |  课程Id 或 帖子Id
  toUserId | 否 | 字符串 | 
  content | 否 | 字符串 | 
+ imageIds | 否 | 字符串 |
+ videoUrls | 否 | 字符串 |
+ videoImgs | 否 | 字符串 |
+ audioUrls | 否 | 字符串 |
  location | 否 | 字符串 | 
  type | 否 | 字符串 |   1 课程评论 2 帖子评论
  

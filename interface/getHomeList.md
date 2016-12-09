@@ -31,7 +31,24 @@
                 "objectId": 0,
                 "pic": "",
                 "type": 1,
-                "url": ""
+                "url": "",
+                "commodity": {
+                    "attentionnum": 100,
+                    "detail": "逻辑名师，讲课生动有趣，善于把握考点，总结规律，把知识点板块化，把考点逻辑化，对考生的逻辑学习提升起到了至关重要的作用。学生评语：方法独特，一招制胜，把复杂的逻辑提干简单化，冗长的逻辑容易理解。",
+                    "id": 17,
+                    "image": "http://banner.ufile.ucloud.com.cn/logo_mx.png",
+                    "leanstage": "8月17日-12月31日",
+                    "name": "联考逻辑全程体系课程【饶思中】【限时】",
+                    "org": "幂学教育出版社",
+                    "paynum": 28,
+                    "price": 98,
+                    "status": 0,
+                    "suitto": "教材版本：管理类联考综合能力历年真题",
+                    "totaltime": 960,
+                    "type": "1",
+                    "url": "http://cospic.ufile.ucloud.com.cn/92.jpg",
+                    "videonum": 12
+                }
             }
         ],
         "questionList": [

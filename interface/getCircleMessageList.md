@@ -15,7 +15,8 @@
  type | 是 | 字符串 | 1 观看记录 2 发帖 ，固定传2
 ###返回结果示例
 
-```javascript{
+```javascript
+{
 	"message": "成功",
 	"result": [{
 		"commentId": 259,

@@ -1,18 +1,17 @@
 
-# 评论消息列表
+# 点赞列表
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /comment/getCircleMessageList
+ 访问地址 | /circle/getPraiseList
 
 ###请求参数
 
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
  userId | 是 | 字符串 | 用户Id
- commentId | 是 | 字符串 | 最后一条ID，用户翻页
+ praiseId | 是 | 字符串 | 最后一条ID，用户翻页
  pageSize | 否 | 字符串 | 
- type | 是 | 字符串 | 1 观看记录 2 发帖 ，固定传2
 ###返回结果示例
 
 ```javascript

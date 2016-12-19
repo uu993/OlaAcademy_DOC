@@ -22,10 +22,12 @@
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |
-* | :one:友盟推送 | /message/[getUnreadCount](./interface/umeng_push.md)
+* | :one:友盟推送 | /message/[umeng_push](./interface/umeng_push.md)
 * | :one:未读消息数 | /message/[getUnreadCount](./interface/getUnreadCount.md)
-* | :one:消息列表 | /message/[getMessageList](./interface/getMessageList.md) 
-* | :one:标记为已读 | /message/[addMessageRecord](./interface/addMessageRecord.md)
+* | :one:评论消息列表 | /comment/[getCircleMessageList](./interface/getCircleMessageList.md) 
+* | :one:点赞列表 | /circle/[getPraiseList](./interface/getPraiseList.md) 
+* | :one:系统消息列表 | /message/[getMessageList](./interface/getMessageList.md) 
+* | :one:系统消息标记为已读 | /message/[addMessageRecord](./interface/addMessageRecord.md)
 考点 | | | | |
 * | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
 * | :one:知识点对应的考点试题 | /cour/[getPoiSubList](./interface/ola_getPoiSubList.md)

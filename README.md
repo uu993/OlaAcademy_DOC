@@ -23,7 +23,8 @@
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |
 * | :one:友盟推送 | /message/[umeng_push](./interface/umeng_push.md)
-* | :one:未读消息数 | /message/[getUnreadCount](./interface/getUnreadCount.md)
+*(老版本) | :one:未读消息数 | /message/[getUnreadCount](./interface/getUnreadCount.md)
+* | :one:未读消息数 | /message/[getUnreadTotalCount](./interface/getUnreadTotalCount.md)
 * | :one:评论消息列表 | /comment/[getCircleMessageList](./interface/getCircleMessageList.md) 
 * | :one:点赞列表 | /circle/[getPraiseList](./interface/getPraiseList.md) 
 * | :one:系统消息列表 | /message/[getMessageList](./interface/getMessageList.md) 

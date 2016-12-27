@@ -34,6 +34,8 @@
                 "title": "测试",
                 "type": 2,
                 "userId": 381,
+                "userName": "欧拉技术支持",
+                "userAvatar": "78de30c6-2234-4ac0-af2d-0f0b5f792f91",
                 "videoId": 0,
                 "time": "2016-12-11 10:45:04"
             }
@@ -53,6 +55,8 @@
                 "title": "路过咖啡厅，看见一个人在看视频学习，突然感觉好眼熟，仔细一看，原来是用欧拉联考学习",
                 "type": 2,
                 "userId": 381,
+                "userName": "欧拉技术支持",
+                "userAvatar": "78de30c6-2234-4ac0-af2d-0f0b5f792f91",
                 "videoId": 0,
                 "time": "2016-09-01 18:35:02"
             }

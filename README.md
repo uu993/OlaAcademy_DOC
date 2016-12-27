@@ -70,6 +70,7 @@
 * | :one:帖子点赞 | /circle/[praiseCirclePost](./interface/praiseCirclePost.md)
 * | :one:添加评论 | /comment/[addComment](./interface/addComment.md)
 * | :one:评论列表 | /comment/[getCommentList](./interface/getCommentList.md)
+* | :one:个人页面 | /circle/[getUserPostList](./interface/getUserPostList.md)
 * 好友关注| | | | |
 * | :one:关注／取消关注 | /attention/[attendUser](./interface/attendUser.md)
 * 每日签到 分享| | | | |

@@ -15,14 +15,16 @@
 {
     "message": "成功",
     "result": {
-        "status": 1,
-        "lastSignIn": "2016-10-18",
-        "signInDays": "6",
-        "coin": "263",
-        "todayCoin": 0,
-        "profileTask": 0,
+        "status": 0,
+        "lastSignIn": "2016-12-23",
+        "signInDays": "1",
+        "coin": "385",
+        "profileTask": 1,
         "vipTask": 1,
-        "courseTask": 1
+        "courseTask": 1,
+        "todayCoin": 0,
+        "courseBuyNum": 7,
+        "courseCollectNum": 5
     },
     "apicode": 10000
 }

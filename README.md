@@ -86,5 +86,6 @@
 * | :one:视频收藏列表 | /collection/[getCollectionByUserId](./interface/getCollectionByUserId.md) 
 * | :one:购买视频列表 | /goods/[getBuyGoodsList](./interface/getBuyGoodsList.md) 
 * 支付 | | | | |
+* | :one:VIP价格 | /pay/[getVIPPrice](./interface/getVIPPrice.md) 
 * | :one:微信支付信息 | /pay/[getWXPayReq](./interface/getWXPayReq.md) 
 * | :one:支付宝支付信息 | /pay/[getAliOrderInfo](./interface/getAliOrderInfo.md)

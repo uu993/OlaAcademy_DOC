@@ -85,7 +85,9 @@
 * | :one:更新错题集 | /cour/[updateWrongSet](./interface/updateWrongSet.md) 
 * | :one:视频收藏列表 | /collection/[getCollectionByUserId](./interface/getCollectionByUserId.md) 
 * | :one:购买视频列表 | /goods/[getBuyGoodsList](./interface/getBuyGoodsList.md) 
-* | :one: | /auth/[queryAuthInfo](./interface/queryAuthInfo.md) 
+* | :one:获取认证信息 | /auth/[queryAuthInfo](./interface/queryAuthInfo.md) 
+* | :one:提交认证 | /auth/[submitAuthInfo](./interface/submitAuthInfo.md) 
+* | :one:取消认证 | /auth/[cancelAuth](./interface/cancelAuth.md) 
 * 支付 | | | | |
 * | :one:VIP价格 | /pay/[getVIPPrice](./interface/getVIPPrice.md) 
 * | :one:微信支付信息 | /pay/[getWXPayReq](./interface/getWXPayReq.md) 

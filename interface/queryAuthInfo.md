@@ -23,6 +23,7 @@
         "name": "wechat1",
         "phone": "13512345669",
         "profile": "123",
+        "domain": "数学",
         "status": 1,
         "userId": 381,
         "createTime": "2017-02-04 09:18:25"

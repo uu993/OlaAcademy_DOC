@@ -14,9 +14,9 @@
  userId | 是 | 字符串 | userId
  name | 否 | 字符串 | name |
  phone | 是 | 字符串 | phone |
- email | 否 | 字符串 | email |
- domain | 否 | 字符串 | 科目 |
- profile | 否 | 字符串 | 简介 |
+ email | 是 | 字符串 | email |
+ domain | 是 | 字符串 | 科目 |
+ profile | 是 | 字符串 | 简介 |
 
 ###返回结果示例
 

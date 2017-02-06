@@ -54,7 +54,9 @@
 * | :one:解锁题目 | /exchange/[unlockSubject](./interface/unlockSubject.md) 
 视频 | | | | |
 * | :one:首页banner | /cour/[getBannerList](./interface/getBannerList.md) 
-* | :one:课程列表 | /cour/[getCourList](./interface/ola_getCourList.md) 
+*（老版本） | :one:视频课程首页 | /cour/[getCourList](./interface/ola_getCourList.md) 
+* | :one:视频课程首页 | /cour/[getVideoCourseList](./interface/getVideoCourseList.md)
+* | :one:视频课程列表 | /cour/[getVideoCourseSubList](./interface/getVideoCourseSubList.md)
 * | :one:获取课程视频 | /cour/[getVideoByPoi](./interface/ola_getVideoByPoi.md)
 * | :one:收藏／取消收藏视频 | /collection/[collectionVideo](./interface/collectionVideo.md)
 * | :one:机构列表 | /organization/[getAllOrganization](./interface/ola_getAllOrganization.md)

@@ -22,6 +22,7 @@
 直播 | | | | |
 * | :one:直播 | /broadcast/[getBroadcastList](./interface/getBroadcastList.md)
 消息 | | | | |
+* | :one:友盟设置 | /message/[umeng_setting](./interface/umeng_setting.md)
 * | :one:友盟推送 | /message/[umeng_push](./interface/umeng_push.md)
 *(老版本) | :one:未读消息数 | /message/[getUnreadCount](./interface/getUnreadCount.md)
 * | :one:未读消息数 | /message/[getUnreadTotalCount](./interface/getUnreadTotalCount.md)

@@ -5,6 +5,7 @@
 ------ | ------ | ------ | -------- | ------- | ------- 
 用户 | | | | |
 * | :one:用户登陆 | /user/[login](./interface/login.md) 
+* | :one:第三方登陆 | /user/[loginBySDK](./interface/loginBySDK.md) 
 * | :one:登出 |  /user/[loginOut](./interface/loginOut.md) 
 * | :one:用户注册 | /user/[reg](./interface/reg.md) 
 * | :one:获取短信验证码 | /user/[getYzmByPhone](./interface/getYzmByPhone.md) 

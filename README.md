@@ -12,6 +12,7 @@
 * | :one:获取短信验证码 | /user/[getYzmByPhone](./interface/getYzmByPhone.md) 
 * | :one:根据id修改用户信息 | /user/[update](./interface/update.md)
 * | :one:根据id查询用户的信息 | /user/[queryUser](./interface/queryUser.md)
+* | :one:根据手机号拼接串查询用户的信息 | /user/[queryUserByPhoneNumbers](./interface/queryUserByPhoneNumbers.md)
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
 首页 | | | | |

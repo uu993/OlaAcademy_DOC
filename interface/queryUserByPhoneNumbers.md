@@ -1,23 +1,14 @@
-# 添加评论
+# 根据手机号查询用户信息
  相关信息 | 内容
  ------ | ------
  访问类型 | POST
- 访问地址 | /comment/addComment
+ 访问地址 | /user/queryUserByPhoneNumbers
 
 ###请求参数
 
  参数名称 | 是否必填 | 类型 | 说明 | 示例数据
  ------ | ------ | ------ | ------ | ------ | ------
- userId | 是 | 字符串 | 
- postId | 是 | 字符串 |  课程Id 或 帖子Id
- toUserId | 否 | 字符串 | 
- content | 否 | 字符串 | 
- imageIds | 否 | 字符串 |
- videoUrls | 否 | 字符串 |
- videoImgs | 否 | 字符串 |
- audioUrls | 否 | 字符串 |
- location | 否 | 字符串 | 
- type | 否 | 字符串 |   1 课程评论 2 帖子评论
+ phones | 是 | 字符串 | 多个用,分割
  
 ###返回结果示例
 

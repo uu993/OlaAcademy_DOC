@@ -75,10 +75,12 @@
 * | :one:帖子详情 | /circle/[queryCircleDetail](./interface/queryCircleDetail.md)
 * | :one:帖子点赞 | /circle/[praiseCirclePost](./interface/praiseCirclePost.md)
 * | :one:添加评论 | /comment/[addComment](./interface/addComment.md)
-* | :one:评论列表 | /comment/[getCommentList](./interface/getCommentList.md)
-* | :one:个人页面 | /circle/[getUserPostList](./interface/getUserPostList.md)
+* | :one:评论列表 | /comment/[queryAttentionList](./interface/queryAttentionList.md)
+* | :one:个人页面 | /circle/[queryFollowerList](./interface/queryFollowerList.md)
 * 好友关注| | | | |
 * | :one:关注／取消关注 | /attention/[attendUser](./interface/attendUser.md)
+* | :one:关注列表 | /attention/[attendUser](./interface/attendUser.md)
+* | :one:粉丝列表 | /attention/[attendUser](./interface/attendUser.md)
 * 每日签到 分享| | | | |
 * | :one:获取今日签到状态 | /dailyact/[getCheckinStatus](./interface/getCheckinStatus.md) 
 * | :one:签到 | /dailyact/[checkin](./interface/checkin.md) 

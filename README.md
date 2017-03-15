@@ -15,6 +15,7 @@
 * | :one:根据手机号拼接串查询用户的信息 | /user/[queryUserByPhoneNumbers](./interface/queryUserByPhoneNumbers.md)
 * | :one:修改密码 | /user/[modifypasswd](./interface/modifypasswd.md) 
 * | :one:上传图片 | /user/[fileUpload](./interface/fileUpload.md)
+* | :one:获取用户登录token信息 | /token/[getTokenInfo](./interface/getTokenInfo.md)
 首页 | | | | |
 * | :one:首页列表 | /home/[getHomeList](./interface/getHomeList.md)
 * | :one:资料列表 | /material/[getMaterialList](./interface/getMaterialList.md)
